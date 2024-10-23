@@ -7,7 +7,8 @@
 }
 
 .athan-label {
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
+    font-weight: bold;
+    color: gray; /* ? Using gray color */
 }
 
 .prefs_s_action:hover {
