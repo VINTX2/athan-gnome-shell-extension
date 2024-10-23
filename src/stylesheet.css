@@ -1,17 +1,10 @@
 .athan-panel {
-    font-family: Lotus, Arial, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    direction: rtl;
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
-}
+    font-size: 16px;
+    font-weight: bold;}
 
 .athan-label {
-    font-weight: bold;
-    color: gray; /* ? Using gray color */
-}
+    font-weight: bold;}
 
 .prefs_s_action:hover {
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
     border: none;
 }
